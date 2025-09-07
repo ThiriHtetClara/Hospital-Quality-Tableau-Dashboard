@@ -22,4 +22,8 @@ Interactive Tableau workbook ('.twbx') visualizing hospital quality metrics with
 - The '.twbx' file is tracked with Git LFS.
 
 ## License
-MIT — see 'LICENSE'.
+This project is available under the MIT License for educational and reference purposes. The Tableau workbook, calculated fields, and documentation are original work created to demonstrate data visualization and dashboard design skills.
+
+## Copyright Notice
+© 2025 Thiri Htet (Clara). All rights reserved.
+This repository contains original visualization design, calculated fields, and documentation. Any datasets used are public/aggregate or simulated; no personally identifiable or medical record data is included. Data remains the property of its original source where applicable.
