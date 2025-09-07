@@ -18,6 +18,9 @@ Interactive Tableau workbook ('.twbx') visualizing hospital quality metrics with
 - Top-N hospitals by state or city.
 - Drill-down interactivity with filters and tooltips.
 
+## Contributors
+This project was completed as a group effort by multiple collaborators.
+
 ## Notes
 - The '.twbx' file is tracked with Git LFS.
 
